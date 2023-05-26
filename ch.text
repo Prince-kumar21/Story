@@ -1,1 +1,4 @@
-Hare Krishna 1
+Hare Krishna 1 
+git remote add origin https://github.com/Prince-kumar21/Story.git
+git branch -M main
+git push -u origin main
